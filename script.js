@@ -104,7 +104,7 @@ function saveFeedbackLocally(data) {
 async function submitToGitHub(data) {
     // CONFIGURATION REQUIRED:
     // Replace these values with your GitHub repository details
-    const GITHUB_TOKEN = 'YOUR_GITHUB_TOKEN_HERE'; // Create a personal access token
+    const GITHUB_TOKEN = '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'; // Create a personal access token
     const REPO_OWNER = 'subu-prog'; // Your GitHub username
     const REPO_NAME = 'FeedbackAPP'; // Your repository name
 
